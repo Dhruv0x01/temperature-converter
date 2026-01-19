@@ -1,0 +1,44 @@
+body{
+    background-image: url(/javascript/assets/images/download\ \(3\).png);
+    background-size: cover;
+    background-position: center;
+}
+#header{
+    display: block;
+    text-align: center;
+    font-size: 4em;
+    font-family: Verdana;
+    color: hsl(210, 10%, 25%);
+    font-family: 600;
+}
+#inputf{
+    margin-left: 25%;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    padding-left: 150px;
+}
+#resultf{
+    display: block;
+    margin-top: 50px;
+    font-size: 2.5em;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(210, 35%, 22%);
+}
+#convertf{
+    margin-left: 25%;
+}
+.button{
+    color: hsl(210, 15%, 20%);
+    font-size: 1.7em;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: hsl(270, 75%, 75%);
+    transition: background-color 0.25s;
+}
+.button:hover{
+    background-color: hsl(270, 75%, 60%);
+}
