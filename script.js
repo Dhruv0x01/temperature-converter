@@ -18,7 +18,7 @@ resBtnc.onclick = function(){  // clear result text and clear input field
 };
 
 changeBtnc.onclick = function(){
-    window.location.href = "ftoc.html";
+    window.location.href = "./ftoc.html";
   };
 
 }
@@ -41,7 +41,7 @@ resBtnf.onclick = function(){
 };
 
 changeBtnf.onclick = function(){
-    window.location.href = "ctof.html";
+    window.location.href = "./index.html"; 
 };
 
     
